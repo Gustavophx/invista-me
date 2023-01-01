@@ -1,0 +1,5 @@
+Acabamos de criar uma nova app django
+
+- 1º - Criar uma nova rota  {urls.py}
+- 2º - Criar uma função responsável por entregar essa rota {def}
+- 3º - Criar um template responsável por exibir os dados que serão exibidos no site
